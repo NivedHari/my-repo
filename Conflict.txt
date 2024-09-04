@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 just some text from main.
+=======
+From other branch
+>>>>>>> new-feature
